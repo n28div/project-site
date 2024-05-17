@@ -13,4 +13,4 @@ WHERE{
 limit 100
 ```
 
-![alt text]([image.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palazzo_Poggi_UniBo.jpg/220px-Palazzo_Poggi_UniBo.jpg))
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Palazzo_Poggi_UniBo.jpg/220px-Palazzo_Poggi_UniBo.jpg)
